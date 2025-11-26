@@ -1,9 +1,6 @@
 <!-- Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:a78bfa,100:7c3aed&height=150&section=header&text=Affes%20Mariam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20🌌&descAlignY=55&descSize=14" width="100%"/>
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=🌌+Welcome+to+My+Galactic+Development+Space;💫+Full+Stack+%26+Mobile+Developer;✨+From+ISET+Sfax%2C+Tunisia" alt="Typing SVG" />
-</p>
+
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=affesmariam&label=Cosmic+Visitors&color=blueviolet&style=flat-square" alt="Profile Views"/>
@@ -12,20 +9,14 @@
 
 ---
 
-<div align="center">
 
-## 
 
 <div align="center">
 
-<!-- Animated Text Switcher - URL encoded and working -->
-<div align="center">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=80&lines=%F0%9F%8C%B8+About+My+Cosmic+Journey;Affes+Mariam+%F0%9F%8E%93+IT+Student+%40+ISET+Sfax;%F0%9F%92%BB+Full+Stack+%2B+Mobile+Developer;%F0%9F%9A%80+Looking+for+PFE+Internship;%E2%9C%A8+The+universe+is+expanding...+and+so+are+my+skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=80&lines=%F0%9F%8C%B8+About+My+Cosmic+Journey;Affes+Mariam+%F0%9F%8E%93+IT+Student+%40+ISET+Sfax;%F0%9F%92%BB+Full+Stack+%2B+Mobile+Developer;%E2%9C%A8+The+universe+is+expanding...+and+so+are+my+skills" />
 
 </div>
+
 
 
 
