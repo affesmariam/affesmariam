@@ -1,56 +1,39 @@
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=200&section=header&text=Affes%20Mariam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20Universe%20of%20Code%20🌌&descAlignY=55&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:a78bfa,100:7c3aed&height=150&section=header&text=Affes%20Mariam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20🌌&descAlignY=55&descSize=14" width="100%"/>
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=🌌+Welcome+to+My+Galactic+Development+Space;💫+Full+Stack+%26+Mobile+Developer;✨+Passionate+About+Innovation+%26+Learning;🚀+From+ISET+Sfax%2C+Tunisia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=🌌+Welcome+to+My+Galactic+Development+Space;💫+Full+Stack+%26+Mobile+Developer;✨+From+ISET+Sfax%2C+Tunisia" alt="Typing SVG" />
 </p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Profile Views Counter with Animation -->
+<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=affesmariam&label=Cosmic+Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/affesmariam?label=Stargazers&style=for-the-badge&color=8b5cf6" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=affesmariam&label=Cosmic+Visitors&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/affesmariam?label=Stargazers&style=flat-square&color=8b5cf6" alt="Followers"/>
 </p>
 
 ---
 
-## 🌸 About My Cosmic Journey
+<div align="center">
 
-```javascript
-const mariamAffes = {
-    location: "📍 Sfax, Tunisia 🇹🇳",
-    currentRole: "🎓 Information Technology Student @ ISET Sfax",
-    mission: "🚀 Seeking PFE Internship Opportunity",
-    
-    dreamJob: "Software Engineer • Full-Stack & Mobile Developer 💻📱",
-    
-    currentlyLearning: [
-        "React.js ⚛️",
-        "Django 🐍", 
-        "Flutter 🦋",
-        "Advanced WinDev 🔧"
-    ],
-    
-    lifePhilosophy: "The universe is expanding... and so are my skills! 🌌✨",
-    
-    openTo: [
-        "Internships (PFE)",
-        "Open Source Contributions",
-        "Freelance Projects",
-        "Tech Collaborations"
-    ],
-    
-    funFact: "I turn ☕ into <code/> and 🐛 into ✨ features!"
-};
-```
+## 
+
+<div align="center">
+
+<!-- Animated Text Switcher - URL encoded and working -->
+<div align="center">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=80&lines=%F0%9F%8C%B8+About+My+Cosmic+Journey;Affes+Mariam+%F0%9F%8E%93+IT+Student+%40+ISET+Sfax;%F0%9F%92%BB+Full+Stack+%2B+Mobile+Developer;%F0%9F%9A%80+Looking+for+PFE+Internship;%E2%9C%A8+The+universe+is+expanding...+and+so+are+my+skills" />
+
+</div>
+
+
+
 
 ---
 
-<!-- Animated Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<!-- Animated Section Divider
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"> -->
 
 ## 🛠️ My Tech Galaxy
 
@@ -112,28 +95,6 @@ const mariamAffes = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🚀 Professional Odyssey
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#8b5cf6','primaryTextColor':'#fff','primaryBorderColor':'#a78bfa','lineColor':'#7c3aed','secondaryColor':'#6d28d9','tertiaryColor':'#5b21b6'}}}%%
-timeline
-    title 🌠 My Professional Journey
-    Jan 2024 : 🌟 Stage d'Initiation<br/>ABS Computer
-         : Découverte du développement desktop
-    Jan 2025 : 💫 Stage de Perfectionnement<br/>ABS Computer
-         : Projets desktop avec WinDev
-         : Manipulation HFSQL
-    Jun 2025 : ✨ Stage Supplémentaire<br/>ABS Computer
-         : Développement avancé
-    2023-2024 : 🤝 Adjointe Finance<br/>ANCU
-         : Leadership & Organisation
-```
-
-</div>
-
----
 
 ## 📊 GitHub Cosmic Analytics
 
@@ -141,13 +102,10 @@ timeline
 
 <!-- GitHub Stats Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=affesmariam&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affesmariam&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=affesmariam&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=affesmariam&custom_title=Contribution%20Constellation&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=fff&area_color=7c3aed&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -156,11 +114,6 @@ timeline
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=affesmariam&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</div>
 
 ---
 
@@ -262,20 +215,14 @@ timeline
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic.%20Every%20bug%20is%20a%20lesson%2C%20every%20solution%20is%20an%20adventure.&author=Mariam%20Affes" alt="Quote"/>
 
-### ⚡ Quick Facts About Me:
-- ☕ I turn **coffee** into `<code/>`
-- 🐛 I turn **bugs** into ✨ **features**
-- 🌙 I code better when the **moon** is out
-- 🚀 My commits have **cosmic** energy
-- 💜 **Purple & Blue** are my coding colors
+
 
 </div>
 
 ---
 
 <!-- Footer with Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=150&section=footer&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:a78bfa,100:7c3aed&height=100&section=footer" width="100%"/>
 <div align="center">
 
 ### ✨ Thank You for Visiting My Cosmic Space! ✨
