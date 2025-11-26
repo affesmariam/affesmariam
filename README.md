@@ -1,5 +1,5 @@
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:a78bfa,100:7c3aed&height=150&section=header&text=Affes%20Mariam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20🌌&descAlignY=55&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:a78bfa,100:7c3aed&height=150&section=header&text=Affes%20Mariam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20Code%20&descAlignY=55&descSize=14" width="100%"/>
 
 <!-- Profile Views Counter -->
 <p align="center">
